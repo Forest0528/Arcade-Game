@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level/Story/1.unity
     guid: 3fd4baaabffe0a84391cd0987be6ca1f
+  - enabled: 1
+    path: Assets/Scenes/Level/Speedrun/all lvls.unity
+    guid: d8a63b9955b8ac14698f5c5a22db4756
   m_configObjects: {}
